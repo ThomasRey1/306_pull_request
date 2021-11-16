@@ -5,12 +5,18 @@ Ce readme contiens de nombreuses erreurs ("typos").
 
 # A faire :
 
-1. Forkez ce repo vers votre propre compte Github
-2. Créez une branche "fix_typo_readme"
-3. Faites la modification
-4. Faites le commit de votre branche
-5. Faites le push vers votre repo Github
-6. Ouvrez une pull request
+1. Forkez ce repo vers votre propre compte Github en utilisant le menu **Fork**
+2. Clonez le repo sur votre machine (git clone %url de votre repo)
+3. Créez une branche "fix_typo_readme"
+   git checkout -b fix-readme-typo
+
+4. Faites la modification
+5. Faites le commit de votre branche
+   git add README.md
+   git commit -m "Fix erreurs dans le readme"
+7. Faites le push vers votre repo Github
+   git push origin fix-readme-typo
+9. Ouvrez une pull request
 
 
 # Texte bidon
