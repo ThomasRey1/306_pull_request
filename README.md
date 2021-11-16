@@ -7,10 +7,12 @@ Ce readme contiens de nombreuses erreurs ("typos").
 
 1. Forkez ce repo vers votre propre compte Github en utilisant le menu **Fork**
 2. Clonez le repo sur votre machine 
-git clone %url de votre repo
+
+   git clone %url de votre repo
+   
 4. Créez une branche "fix_typo_readme"
 
-git checkout -b fix-readme-typo
+   git checkout -b fix-readme-typo
 
 4. Corrigez quelques fautes d'orthographe dans README.md
 5. Faites le commit de votre branche
