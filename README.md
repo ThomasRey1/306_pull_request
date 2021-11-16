@@ -10,7 +10,7 @@ Ce readme contiens de nombreuses erreurs ("typos").
 3. Créez une branche "fix_typo_readme"
    git checkout -b fix-readme-typo
 
-4. Faites la modification
+4. Corrigez quelques fautes d'orthographe dans README.md
 5. Faites le commit de votre branche
    git add README.md
    git commit -m "Fix erreurs dans le readme"
