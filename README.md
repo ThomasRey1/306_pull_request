@@ -8,7 +8,7 @@ Ce readme contiens de nombreuses erreurs ("typos").
 1. Forkez ce repo vers votre propre compte Github en utilisant le menu **Fork**
 2. Clonez le repo sur votre machine 
 
-   git clone %url de votre repo
+   git clone *url_de_votre_repo*
    
 4. Créez une branche "fix_typo_readme"
 
@@ -18,7 +18,7 @@ Ce readme contiens de nombreuses erreurs ("typos").
 5. Faites le commit de votre branche
 
    git add README.md
-   git commit -m "Fix erreurs dans le readme"
+   git commit -m "Fix typos errors present in the README"
    
 7. Faites le push vers votre repo Github
 
